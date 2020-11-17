@@ -4,7 +4,7 @@
  An apps script to display icoming applicants for the Worst Java Realm
 */
 
-var POST_URL = "https://discordapp.com/api/webhooks/583763401969500161/OsFMihsCoShHwm7VXiqkkUk-BTdsQNOQVRKgPIfYJEVN_ZEBn0zwWwZ1edpud2JMlisc";
+var POST_URL = "url";
 
 
 function fetchMCUUID(mcname) {
